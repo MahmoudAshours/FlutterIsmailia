@@ -1,4 +1,4 @@
-# simplecalculator
+# Simple Calculator in flutter
 
 A new Flutter project.
 
