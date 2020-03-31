@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Demo
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/50237142/78059510-434ca900-738a-11ea-816b-ede210dd8496.gif)
 
-<a href="https://imgflip.com/gif/3utbop">via Imgflip</a>
 
 
