@@ -23,6 +23,8 @@ Thanks!
 - Stack
 - Positioned
 - Text
+- Align
+- Center
 - List view
 - List tile
 - Raised button 
