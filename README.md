@@ -30,7 +30,7 @@ Thanks!
 - Raised button 
 - Floating action button
 - Flat button
-- Shared Prefrences
+- SpinKit https://pub.dev/packages/flutter_spinkit 
 - GridView
 - GridTile
 
