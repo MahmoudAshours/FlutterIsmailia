@@ -33,7 +33,20 @@ Thanks!
 - SpinKit https://pub.dev/packages/flutter_spinkit 
 - GridView
 - GridTile
+- Animated Container
+- Animated CrossFade
+- Tweens 
+- Animated Modal barrier
+- AnimatedDefaultTextStyle
+- Animated Opacity
+- Animated Physical model
+- Animated Positioned
+- Fade transition
+- Size transitions
+- Slide transition
+- Rotation transition
 
 ## Covered tasks :
 - Animated positioned task
 - Simple calculator app
+- Currency converter  app
