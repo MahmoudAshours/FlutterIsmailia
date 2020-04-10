@@ -1,16 +1,14 @@
-# currencyconverter
+# Currency Converter
 
-A new Flutter project.
+A Flutter project for currency coversions.
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/50237142/79017321-4fe2b580-7b71-11ea-9e23-9fabaa389368.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## Used Apis : 
+[Currency converter api](https://exchangeratesapi.io/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Used packages : 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[HTTP package](https://pub.dev/packages/http#-readme-tab-)
