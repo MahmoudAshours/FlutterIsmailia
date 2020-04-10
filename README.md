@@ -1,4 +1,4 @@
-# FlutterIsmailia
+# Flutter Ismailia
 
 Repository about Google Flutter to help Egyptian developers especially in Ismailia to know more about Google's Flutter.
 Managed by @MeitanteiAshour
@@ -16,37 +16,47 @@ Thanks!
 # Covered topics through the course :
 
 ## Covered widgets :
-- Material app
-- Scaffold
-- Columns
-- Rows
-- Stack
-- Positioned
-- Text
-- Align
-- Center
-- List view
-- List tile
-- Raised button 
-- Floating action button
-- Flat button
-- SpinKit https://pub.dev/packages/flutter_spinkit 
-- GridView
-- GridTile
-- Animated Container
-- Animated CrossFade
-- Tweens 
-- Animated Modal barrier
-- AnimatedDefaultTextStyle
-- Animated Opacity
-- Animated Physical model
-- Animated Positioned
-- Fade transition
-- Size transitions
-- Slide transition
-- Rotation transition
+- [Material app](https://api.flutter.dev/flutter/material/MaterialApp-class.html)
+- [Scaffold](https://api.flutter.dev/flutter/material/Scaffold-class.html)
+- [Columns](https://api.flutter.dev/flutter/widgets/Column-class.html)
+- [Rows](https://api.flutter.dev/flutter/widgets/Row-class.html)
+- [Stack](https://api.flutter.dev/flutter/widgets/Stack-class.html)
+- [Positioned](https://api.flutter.dev/flutter/widgets/Positioned-class.html)
+- [Text](https://api.flutter.dev/flutter/dart-html/Text-class.html)
+- [Align](https://api.flutter.dev/flutter/widgets/Align-class.html)
+- [Center](https://api.flutter.dev/flutter/widgets/Center-class.html)
+- [List view](https://api.flutter.dev/flutter/widgets/ListView-class.html)
+- [List tile](https://api.flutter.dev/flutter/material/ListTile-class.html)
+- [Raised button](https://api.flutter.dev/flutter/material/RaisedButton-class.html) 
+- [Floating action button](https://api.flutter.dev/flutter/material/FloatingActionButton-class.html)
+- [Flat button](https://api.flutter.dev/flutter/material/FlatButton-class.html)
+- [SpinKit](https://pub.dev/packages/flutter_spinkit)
+- [GridView](https://api.flutter.dev/flutter/widgets/GridView-class.html)
+- [GridTile](https://api.flutter.dev/flutter/material/GridTile-class.html)
+- [Animated Container](https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html)
+- [Animated CrossFade](https://api.flutter.dev/flutter/widgets/AnimatedCrossFade-class.html)
+- [Animated Modal barrier](https://api.flutter.dev/flutter/widgets/AnimatedModalBarrier-class.html)
+- [AnimatedDefaultTextStyle](https://api.flutter.dev/flutter/widgets/AnimatedDefaultTextStyle-class.html)
+- [Animated Opacity](https://api.flutter.dev/flutter/widgets/AnimatedOpacity-class.html)
+- [Animated Physical model](https://api.flutter.dev/flutter/widgets/AnimatedPhysicalModel-class.html)
+- [Animated Positioned](https://api.flutter.dev/flutter/widgets/AnimatedPositioned-class.html)
+- [Fade transition](https://api.flutter.dev/flutter/widgets/FadeTransition-class.html)
+- [Size transitions](https://api.flutter.dev/flutter/widgets/SizeTransition-class.html)
+- [Slide transition](https://api.flutter.dev/flutter/widgets/SlideTransition-class.html)
+- [Rotation transition](https://api.flutter.dev/flutter/widgets/RotationTransition-class.html)
+- [Wrap](https://api.flutter.dev/flutter/widgets/Wrap-class.html)
+- [TextField](https://api.flutter.dev/flutter/material/TextField-class.html)
+- [DropdownButton](https://api.flutter.dev/flutter/material/DropdownButton-class.html)
+- [DropdownMenuItem](https://api.flutter.dev/flutter/material/DropdownMenuItem-class.html)
+- [SizedBox](https://api.flutter.dev/flutter/widgets/SizedBox-class.html)
+- [FutureBuilder](https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html)
 
 ## Covered tasks :
 - Animated positioned task
 - Simple calculator app
 - Currency converter  app
+
+## Covered topics : 
+- What are tweens? 
+- What are futures?
+- What are JSON apis & how to connect with flutter?
